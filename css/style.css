@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+}
+
+.fuckingkurwa ul li{
+	padding-bottom:20px;
+	list-style-type:none;
+}
+.fuckingkurwa ul li a{
+	display: inline-block;
+	font-size: 50px;
+	color:#ffee00;
+	text-decoration: none;
+}
+.fuckingkurwa{
+	width:100%;
+	height:180px;
+	background: #3e3e3e;
+}
+.fuckingkurwa ul li a img{
+	width: 135px;
+
+}
